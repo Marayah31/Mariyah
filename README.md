@@ -1,12 +1,12 @@
 👋 Holla! Buona giornata, I'm Mariyah
 🎨 A passionate design enthusiast — though sometimes the design doesn't love me back 😅
 
-💻 Exploring the world of Web Design & Development
-📱 Practicing UI/UX Prototyping
-🛠️ Learning new tools, frameworks & leveling up daily
-🤝 Open to collaboration, learning, and sharing ideas
+💻 Exploring the world of Web Design & Development<br/>
+📱 Practicing UI/UX Prototyping<br/>
+🛠️ Learning new tools, frameworks & leveling up daily<br/>
+🤝 Open to collaboration, learning, and sharing ideas<br/>
 
-Still figuring it out, one pixel and one line of code at a time.
+Still figuring it out, one pixel and one line of code at a time.<br/>
 
 
 # 💻 Tech Stack:
