@@ -1,5 +1,5 @@
-👋 Holla! Buona giornata, I'm Mariyah
-🎨 A passionate design enthusiast — though sometimes the design doesn't love me back 😅
+👋 Holla! Buona giornata, I'm Mariyah<br/>
+🎨 A passionate design enthusiast — though sometimes the design doesn't love me back 😅<br/>
 
 💻 Exploring the world of Web Design & Development<br/>
 📱 Practicing UI/UX Prototyping<br/>
